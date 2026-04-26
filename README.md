@@ -69,56 +69,75 @@ UberClone/
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/tuusuario/UberClone.git
+```
 Abrir en Android Studio
 Configurar Firebase:
+```
 Crear proyecto en Firebase
 Descargar google-services.json
+```
 Agregarlo en /app
+
 Ejecutar la aplicación en un emulador o dispositivo físico
-▶️ Uso
-Crear una cuenta o iniciar sesión
-Solicitar un viaje
-Visualizar ubicación en tiempo real
-Conectar con conductores
-💡 Funcionamiento
 
-La aplicación utiliza Firebase para manejar:
+---
 
-Autenticación de usuarios
-Sincronización de datos en tiempo real
-Almacenamiento de información
+## ▶️ Uso
+
+- Crear una cuenta o iniciar sesión
+- Solicitar un viaje
+- Visualizar ubicación en tiempo real
+- Conectar con conductores
+- 💡 Funcionamiento
+
+### La aplicación utiliza Firebase para manejar:
+
+- Autenticación de usuarios
+- Sincronización de datos en tiempo real
+- Almacenamiento de información
 
 Esto permite una comunicación eficiente entre clientes y conductores.
 
-🎨 Interfaz
-Diseño tipo app de transporte
-Navegación intuitiva
-Experiencia optimizada para móviles
-📈 Roadmap
-🤖 Matching inteligente de viajes
-💳 Integración de pagos
-🔔 Notificaciones push
-📊 Panel administrativo
-🌍 Soporte multiidioma
-🤝 Contribuciones
+---
+## 🎨 Interfaz
+
+-Diseño tipo app de transporte
+-Navegación intuitiva
+-Experiencia optimizada para móviles
+
+---
+
+## 📈 Roadmap
+
+- 🤖 Matching inteligente de viajes
+- 💳 Integración de pagos
+- 🔔 Notificaciones push
+- 📊 Panel administrativo
+- 🌍 Soporte multiidioma
+- 🤝 Contribuciones
 
 Las contribuciones son bienvenidas:
-
+```
 Fork del proyecto
 Crear una rama (feature/nueva-funcionalidad)
 Commit de cambios
 Push y Pull Request
-🌟 Soporte
+```
+---
+
+## 🌟 Soporte
 
 Si este proyecto te ayudó:
 
-⭐ Dale una estrella al repositorio
-📢 Compártelo
+- ⭐ Dale una estrella al repositorio
+- 📢 Compártelo
 
-📄 Licencia
+---
+## 📄 Licencia
 
 Este proyecto está bajo licencia MIT.
 
-👨‍💻 Autor
+---
+## 👨‍💻 Autor
 
-Desarrollado por Isai Reyes Peña
+Desarrollado por **Isai Reyes Peña**
