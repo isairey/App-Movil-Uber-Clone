@@ -43,7 +43,7 @@ El sistema permite la conexión entre usuarios y conductores, integrando servici
 
 ## 📂 Estructura del proyecto
 
-
+```
 UberClone/
 │
 ├── 📁 app/
@@ -52,7 +52,7 @@ UberClone/
 ├── build.gradle
 ├── settings.gradle
 └── README.md
-
+```
 
 ---
 
@@ -68,7 +68,7 @@ UberClone/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/UberClone.git
+git clone https://github.com/isairey/App-Movil-Uber-Clone.git
 ```
 Abrir en Android Studio
 Configurar Firebase:
